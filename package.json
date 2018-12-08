@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "mysql2": "^1.6.1",
+    "pug": "^2.0.3",
+    "sequelize": "^4.41.0"
+  }
+}
